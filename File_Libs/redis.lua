@@ -277,10 +277,10 @@ print("\27[34m"..[[
    | $$ /$$$$$$$/| $$  | $$|  $$$$$$$| $$ \  $$|  $$$$$$$
    |__/|_______/ |__/  |__/ \_______/|__/  \__/ \_______/
                                                                                                                                                                          
->> CH > @TSHAKETEAM
->> CH > @ZX_XX 
->> DEVELOPER > @TAHAJ20
->> DEVELOPER > @VVWVV
+>> CH > @RRRRDO
+>> CH > @RRRRDO 
+>> DEVELOPER > @RRTTT
+>> DEVELOPER > @RRTTT
 ]].."\27[m")
 sudos = dofile("sudo.lua")
 if Sudo then
