@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
-cd $HOME/tumblr-Source
+cd $HOME/Star-Source
 install() {
 rm -rf $HOME/.telegram-cli
 sudo chmod +x tg
-chmod +x tumblr-Source
+chmod +x Star-Source
 chmod +x ts
 ./ts
 }
@@ -44,7 +44,7 @@ fi
 installall
 cd ..
 rm -rf luarocks*
-cd Tshake
+cd Star
 rm -rf luarocks*
 lua start.lua
 
